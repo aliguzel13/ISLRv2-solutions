@@ -815,7 +815,7 @@ PlotPower <- function(x, a, log = "y") {
 PlotPower(1:10, 3)
 ```
 
-### Question 13
+### Question 16
 
 > Using the `Boston` data set, fit classification models in order to predict
 > whether a given census tract has a crime rate above or below the median.
